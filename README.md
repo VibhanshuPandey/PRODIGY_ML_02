@@ -38,4 +38,4 @@ After executing the code, you will obtain the following results:
 - 3D Scatter Plot: Visualizes the customer segmentation based on age, annual income, and spending score.
 
 ## Contact
-For any inquiries or suggestions, please contact [vinitcreation777@gmail.com](mailto:pandeyvibhanshu007@gmail.com).
+For any inquiries or suggestions, please contact [pandeyvibhanshu007@gmail.com](mailto:pandeyvibhanshu007@gmail.com).
