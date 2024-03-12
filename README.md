@@ -36,6 +36,3 @@ After executing the code, you will obtain the following results:
 - Bar plots: Distribution of customers by gender, age groups, spending scores, and annual incomes.
 - Elbow plot: Shows the within-cluster sum of squares (WCSS) for different values of K, helping to determine the optimal number of clusters.
 - 3D Scatter Plot: Visualizes the customer segmentation based on age, annual income, and spending score.
-
-## Contact
-For any inquiries or suggestions, please contact [pandeyvibhanshu007@gmail.com](mailto:pandeyvibhanshu007@gmail.com).
