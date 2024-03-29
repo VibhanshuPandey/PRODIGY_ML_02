@@ -28,6 +28,7 @@ Follow the steps below to use this project:
    - Apply K Means clustering algorithm to perform customer segmentation.
    - Visualize the clusters in a 3D scatter plot.
 
+
 ## Results
 After executing the code, you will obtain the following results:
 
