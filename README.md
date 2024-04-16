@@ -1,5 +1,6 @@
 # Customer Segmentation Using K Means Clustering
 
+
 ## Description
 This project aims to perform customer segmentation using the K Means clustering algorithm. Customer segmentation is a technique used in marketing to group customers based on similarities, enabling businesses to customize their strategies and offerings for each segment effectively.
 
